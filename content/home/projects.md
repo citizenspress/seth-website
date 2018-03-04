@@ -29,12 +29,17 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Oil"
-  tag = ".oil"
+  name = "Physiology"
+  tag = ".Physiology"
 
 [[filter]]
-  name = "Cardiac Function"
-  tag = ".cardiac-function"
+  name = "Rapid Evolution"
+  tag = ".Rapid"
+
+[[filter]]
+  name = "Genomics"
+  tag = ".Genomics"
+
 
 +++
 

@@ -27,7 +27,7 @@ abstract = "The addition of predators can play a key role in structuring ecologi
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -6,7 +6,7 @@ date = "2018-01-01"
 title = "Eco-evolutionary Dynamics"
 
 # Project summary to display on homepage.
-summary = "Ecologist have studied the factors that regulate populations and shape ecological communities for over a century."
+summary = "Ecologist have studied the factors that regulate populations and shape ecological communities for over a century. One factor that was NOT traditionally considered is that rapid evolution could shape ecological dynamics. Many lab-based experiments have demonstrated that rapid evolution can dictate population dynamics, but there is little know about how common in natural ecosystems. My research in this area seeks to add ecological realism to understand when and how rapid evolution shapes ecology"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
@@ -30,4 +30,4 @@ caption = ""
 
 Ecologist have studied the factors that regulate populations and shape ecological communities for over a century. One factor that was NOT traditionally considered is that rapid evolution could shape ecological dynamics. Many lab-based experiments have demonstrated that rapid evolution can dictate population dynamics, but there is little know about how common in natural ecosystems.
 
-My research in this area seeks to add ecological realism to understand when and how rapid evolution shapes ecology
+My research in this area seeks to add ecological realism to understand when and how rapid evolution shapes ecology.

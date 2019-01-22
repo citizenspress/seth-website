@@ -1,0 +1,72 @@
++++
+title = "It is about time: genetic variation in the timing of leaf‐litter inputs influences aquatic ecosystems"
+date = "2016-11-22"
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Mariano A. Rodriguez‐Cabal", "M. Noelia Barrios‐Garcia", "Seth M. Rudman", "Athena D. McKown", "Takuya Sato", "Gregory M. Crutsinger"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "Freshwater Biology"
+publication_short = ""
+
+# Abstract and optional shortened version.
+abstract = "Summary: Phenology, or the timing of life cycle events, is a key trait of organisms that has significance for how communities are assembled and ecosystems function. Although variation in phenology in plants has received increased attention over the past decade as a result of changing climate, we are only beginning to understand the role of genetic variation in these phenological traits on ecological interactions and ecosystem-level processes. The influence of tree species on riparian environments presents an interesting system for understanding the effects of phenology in terrestrial species on aquatic ecosystems. Here, we used a dominant riparian tree (Populus trichocarpa: Salicaceae) and tested intraspecific genetic variation in the phenological timing of leaf drop, which influenced leaf-litter inputs into our experimental aquatic ecosystems. Our empirical results found that genotypic differences in P. trichocarpa explained much of the variation both in leaf-litter decomposition and aquatic invertebrate species richness within our experimental ponds. Moreover, our results showed that variation in the timing of leaf-litter inputs outweighed the effects of variation in leaf-litter quality among P. trichocarpa genotypes on aquatic invertebrate species richness. Taken together, our results suggest that genetic variation in the timing of litter inputs from dominant plant species is likely to be a strong underlying mechanism driving litter decomposition and invertebrate communities in aquatic ecosystems. This emphasises that studies disregarding phenology may significantly underestimate an important and variable component in communities and ecosystems."
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+projects = ["trophic-ecology"]
+
+# Links (optional).
+url_pdf = ""
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+ url_custom = [{name = "DOI", url = "https://doi.org/10.1111/fwb.12872"}]
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = false
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
++++
+
+## Trends
+
+Evolutionary change can occur rapidly enough to alter community dynamics and ecosystem functions.
+
+Despite evidence of the importance of rapid evolution in ecological processes, there has been little discussion of the role of rapid evolution in the provisioning of ecosystem services.
+We discuss putative cases where rapid evolution could alter the provision of ecosystem services, which we define as contemporary evosystem services, with a focus on cases where evolution enhances or maintains services.
+We provide criteria for measuring these contemporary evosystem services with the aim of spurring empirical research on the link between rapid evolution and ecosystem services.

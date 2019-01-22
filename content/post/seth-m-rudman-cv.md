@@ -210,8 +210,12 @@ July 2012
 Peer-Reviewed Research Publications
 ====================================
 
-*Published (h-index 6, Google Scholar):*
-## Peer reviewed
+*Published (h-index 6, [Google Scholar](https://scholar.google.com/citations?hl=en&user=tkLbIiAAAAAJ&view_op=list_works&sortby=pubdate))
+:*
+## Peer reviewed 
+
+**Notice:** This list is from 2017 and is not up-to-date. Please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=tkLbIiAAAAAJ&view_op=list_works&sortby=pubdate) page for a complete list.
+
 16. Rudman, S. M., M.A. Barbour, K. Csillery, P. Gienapp, F. Guillaume, N.G. Hairston,
 A.P. Hendry, J.R. Lasky, M. Rafajlovic, K. Rasanen, P.S. Schmidt, O. Seehausen,
 N. Therkildson, M.M. Turcotte, and J.M. Levine. 2017. What genomic data can
